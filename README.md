@@ -1,6 +1,6 @@
 # Machine_learning_algorithms
 
-# Our data is about exams 
+Our data is about exams 
 
 # We make GUI by using Tkinter 
 
